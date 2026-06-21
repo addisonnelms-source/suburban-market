@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "sample-1",
+    "title": "Refinished Oak Side Table",
+    "slug": "refinished-oak-side-table",
+    "price": 85,
+    "description": "Solid oak side table refinished in Fusion Mineral Paint \"Homestead Blue\" with a matte topcoat. Gentle distressing on the edges. 22\" × 18\" × 24\".",
+    "category": "furniture",
+    "featured": true,
+    "sold": false,
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "sample-2",
+    "title": "Victorian Horse Brass — Sun Face",
+    "slug": "victorian-horse-brass-sun-face",
+    "price": 32,
+    "description": "Authentic Victorian-era horse brass with embossed sun face design. Excellent patina, approximately 3.5\" diameter.",
+    "category": "horse-brass",
+    "featured": true,
+    "sold": false,
+    "createdAt": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "_id": "sample-3",
+    "title": "Mid-Century Dining Chair (Set of 2)",
+    "slug": "mid-century-dining-chair-set",
+    "price": 120,
+    "description": "Pair of mid-century dining chairs with newly upholstered seats in neutral linen. Frames refinished in Fusion \"Ash\" with clear wax finish.",
+    "category": "furniture",
+    "featured": false,
+    "sold": false,
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "_id": "sample-4",
+    "title": "Horse Brass — Crown & Scroll",
+    "slug": "horse-brass-crown-scroll",
+    "price": 28,
+    "description": "Classic crown and scroll horse brass, circa early 1900s. 3\" diameter with original hanging loop intact.",
+    "category": "horse-brass",
+    "featured": false,
+    "sold": false,
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "_id": "sample-5",
+    "title": "Fusion Paint — Homestead Blue (500ml)",
+    "slug": "fusion-paint-homestead-blue",
+    "price": 24,
+    "description": "Fusion Mineral Paint in Homestead Blue, 500ml. Built-in top coat — no sealing required. Available for pickup at the booth.",
+    "category": "paint",
+    "featured": false,
+    "sold": false,
+    "createdAt": "2026-05-18T00:00:00.000Z"
+  },
+  {
+    "_id": "sample-7",
+    "title": "Fusion Paint — Casement (500ml)",
+    "slug": "fusion-paint-casement",
+    "price": 24,
+    "description": "Fusion Mineral Paint in Casement, 500ml. A warm off-white — one of the most popular neutrals for furniture and cabinetry.",
+    "category": "paint",
+    "featured": false,
+    "sold": false,
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "_id": "sample-6",
+    "title": "Refinished Farmhouse Bench",
+    "slug": "refinished-farmhouse-bench",
+    "price": 145,
+    "description": "Long farmhouse bench in solid pine, sanded and painted in Fusion \"Casement\" with light distressing. 48\" long. Perfect for an entry or foot of the bed.",
+    "category": "furniture",
+    "featured": true,
+    "sold": true,
+    "createdAt": "2026-04-20T00:00:00.000Z"
+  }
+]

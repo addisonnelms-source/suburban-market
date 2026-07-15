@@ -63,16 +63,17 @@ function mapSanityListing(item: SanityListing): Listing {
 export async function getListings(): Promise<Listing[]> {
   const client = getSanityClient();
 
+  // Sample data only when Sanity isn't configured yet
   if (!client) {
     return sampleListings as Listing[];
   }
 
   try {
     const results = await client.fetch<SanityListing[]>(LISTINGS_QUERY);
-    if (results.length === 0) return sampleListings as Listing[];
     return results.map(mapSanityListing);
-  } catch {
-    return sampleListings as Listing[];
+  } catch (error) {
+    console.error("Sanity listings fetch failed", error);
+    return [];
   }
 }
 
@@ -89,9 +90,9 @@ export async function getListingBySlug(slug: string): Promise<Listing | null> {
       slug,
     });
     return result ? mapSanityListing(result) : null;
-  } catch {
-    const listing = (sampleListings as Listing[]).find((l) => l.slug === slug);
-    return listing ?? null;
+  } catch (error) {
+    console.error("Sanity listing fetch failed", error);
+    return null;
   }
 }
 

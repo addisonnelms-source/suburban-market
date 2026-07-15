@@ -8,6 +8,7 @@ export function getSanityClient(): SanityClient | null {
     projectId,
     dataset,
     apiVersion,
-    useCdn: process.env.NODE_ENV === "production",
+    // Fresh reads so newly published listings show without long CDN lag
+    useCdn: false,
   });
 }

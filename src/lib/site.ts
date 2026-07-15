@@ -13,9 +13,15 @@ export const site = {
     },
     mapsUrl:
       "https://www.google.com/maps/search/?api=1&query=4377+N+Thompson+St,+Springdale,+AR+72764",
+    hours: "Monday–Saturday 10am–6pm · Closed Sunday",
   },
   owner: {
     name: "Leigh Nelms",
+  },
+  contact: {
+    email: "Suburbanmarkethome@gmail.com",
+    facebook: "https://www.facebook.com/share/1bNqPKazvk/?mibextid=wwXIfr",
+    instagram: "https://www.instagram.com/suburbanmarketnwa",
   },
   fusionPaint: {
     name: "Fusion Mineral Paint",

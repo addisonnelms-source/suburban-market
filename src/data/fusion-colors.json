@@ -1,0 +1,2153 @@
+{
+  "colors": [
+    {
+      "name": "Elmwood",
+      "handle": "elmwood",
+      "hex": "#79665a",
+      "rgb": [
+        121,
+        102,
+        90
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "brown",
+        "cocoa",
+        "Fusion Mineral Paint",
+        "matte",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/e_b6e8ab84-0e3e-4f99-960b-419f4d225b7a.jpg?v=1725000405",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Acadia Pear",
+      "handle": "acadia-pear-1",
+      "hex": "#a69e83",
+      "rgb": [
+        166,
+        158,
+        131
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "Green",
+        "matte",
+        "soft green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/ac_4bd74220-b2d5-4409-84fa-66e40ca2eb66.jpg?v=1724999701",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Lavender Haze",
+      "handle": "lavender-haze",
+      "hex": "#a78f93",
+      "rgb": [
+        167,
+        143,
+        147
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "lavender",
+        "matte",
+        "purple",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/lh_45d0150f-319d-4fd6-8ed6-fe337f674a72.jpg?v=1725000852",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Iron Clay",
+      "handle": "iron-clay",
+      "hex": "#b17754",
+      "rgb": [
+        177,
+        119,
+        84
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "matte",
+        "Orange",
+        "rust",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/ic.jpg?v=1725000638",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Chestnut Mare",
+      "handle": "chestnut-mare",
+      "hex": "#c18354",
+      "rgb": [
+        193,
+        131,
+        84
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "matte",
+        "Orange",
+        "rust",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/2024-08-12_Chestnut_Mare_Desk_240812_8107612-Edit__WebRes.jpg?v=1729731640",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Velvet Plum",
+      "handle": "velvet-plum",
+      "hex": "#443140",
+      "rgb": [
+        68,
+        49,
+        64
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "matte",
+        "plum",
+        "purple",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/vp_f28f27d2-217a-4e62-a076-67dd807b0910.jpg?v=1746113055",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Tapestry",
+      "handle": "tapestry",
+      "hex": "#c0ac96",
+      "rgb": [
+        192,
+        172,
+        150
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "beige",
+        "Fusion Mineral Paint",
+        "Green",
+        "matte",
+        "Neutral",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/t.jpg?v=1725000989",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Snowdrop",
+      "handle": "snowdrop",
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/IMG_9203.jpg?v=1757691903",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Picket Fence",
+      "handle": "picket-fence-1",
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "matte",
+        "Penney & Co.",
+        "waterbased",
+        "white"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_picketfence.jpg?v=1669017631",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Casement",
+      "handle": "casement",
+      "hex": "#fbfbf9",
+      "rgb": [
+        251,
+        251,
+        249
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "matte",
+        "off white",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_casement.jpg?v=1669015959",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Victorian Lace",
+      "handle": "victorian-lace",
+      "hex": "#fafafa",
+      "rgb": [
+        250,
+        250,
+        250
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "matte",
+        "off white",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_victorianlace_1.jpg?v=1669018987",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Raw Silk",
+      "handle": "raw-silk",
+      "hex": "#f6f3ec",
+      "rgb": [
+        246,
+        243,
+        236
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "matte",
+        "off white",
+        "raw silk",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_rawsilk.jpg?v=1669017797",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Cashmere",
+      "handle": "cashmere",
+      "hex": "#ebe6e0",
+      "rgb": [
+        235,
+        230,
+        224
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "gray",
+        "greige",
+        "Grey",
+        "matte",
+        "off white",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_cashmere.jpg?v=1669018598",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Parchment",
+      "handle": "parchment",
+      "hex": "#e8e4d8",
+      "rgb": [
+        232,
+        228,
+        216
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "cream",
+        "Fusion Mineral Paint",
+        "matte",
+        "off white",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Parchment_1.png?v=1683983180",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Chateau",
+      "handle": "chateau",
+      "hex": "#dfd8d2",
+      "rgb": [
+        223,
+        216,
+        210
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "gray",
+        "Grey",
+        "off white",
+        "Paint",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Chateau-pint.jpg?v=1669018697",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Lamp White",
+      "handle": "lamp-white",
+      "hex": "#e2e8e8",
+      "rgb": [
+        226,
+        232,
+        232
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "gray",
+        "Grey",
+        "matte",
+        "off white",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_lampwhite.jpg?v=1669016999",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Cathedral Taupe",
+      "handle": "cathedral-taupe",
+      "hex": "#d7cfc4",
+      "rgb": [
+        215,
+        207,
+        196
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "beige",
+        "Classic",
+        "greige",
+        "matte",
+        "Neutral",
+        "off white",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_cathedraltaupe.jpg?v=1669016075",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Limestone",
+      "handle": "limestone",
+      "hex": "#f8eedc",
+      "rgb": [
+        248,
+        238,
+        220
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "matte",
+        "off white",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_limestone_1.jpg?v=1669017122",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Plaster",
+      "handle": "plaster",
+      "hex": "#eadfc1",
+      "rgb": [
+        234,
+        223,
+        193
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "beige",
+        "Classic",
+        "matte",
+        "Neutral",
+        "off white",
+        "waterbased",
+        "White",
+        "yellow"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-plaster-pint.jpg?v=1651353579",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Champlain",
+      "handle": "champlain",
+      "hex": "#eae2d1",
+      "rgb": [
+        234,
+        226,
+        209
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "cream",
+        "matte",
+        "off white",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_champlain.jpg?v=1669016181",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Putty",
+      "handle": "putty",
+      "hex": "#c9c2b8",
+      "rgb": [
+        201,
+        194,
+        184
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "beige",
+        "greige",
+        "Grey",
+        "matte",
+        "Neutral",
+        "Penney & Co.",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-putty-tester.jpg?v=1651353808",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Buttermilk Cream",
+      "handle": "buttermilk-cream",
+      "hex": "#f8dfa9",
+      "rgb": [
+        248,
+        223,
+        169
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "butter",
+        "butter yellow",
+        "Buttermilk Cream",
+        "Classic",
+        "cream",
+        "matte",
+        "waterbased",
+        "yellow"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-buttermilkcream-tester.jpg?v=1651353587",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Little Star",
+      "handle": "little-star",
+      "hex": "#fbd66c",
+      "rgb": [
+        251,
+        214,
+        108
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "matte",
+        "Tones for Tots",
+        "waterbased",
+        "yellow"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-littlestar-tester.jpg?v=1651353920",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Prairie Sunset",
+      "handle": "prairie-sunset",
+      "hex": "#e4bb6c",
+      "rgb": [
+        228,
+        187,
+        108
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "matte",
+        "Prairie Sunset",
+        "sunny",
+        "sunshine",
+        "waterbased",
+        "yellow"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-prairiesunset-tester.jpg?v=1651353594",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Mustard",
+      "handle": "mustard",
+      "hex": "#c6a34f",
+      "rgb": [
+        198,
+        163,
+        79
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "matte",
+        "Mustard",
+        "Penney & Co.",
+        "waterbased",
+        "yellow"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-mustard-pint.jpg?v=1669019302",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Algonquin",
+      "handle": "algonquin",
+      "hex": "#9f8e7e",
+      "rgb": [
+        159,
+        142,
+        126
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "beige",
+        "Classics",
+        "greige",
+        "matte",
+        "Neutral",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Fusion2L_algonquin.jpg?v=1715656171",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Lichen",
+      "handle": "lichen",
+      "hex": "#8e917e",
+      "rgb": [
+        142,
+        145,
+        126
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "gray",
+        "Green",
+        "green-grey",
+        "Grey",
+        "grey green",
+        "matte",
+        "muted green",
+        "olive",
+        "Penney & Co.",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-lichen-pint.jpg?v=1651353891",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Bedford",
+      "handle": "bedford",
+      "hex": "#b3b5a7",
+      "rgb": [
+        179,
+        181,
+        167
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "Green",
+        "green-grey",
+        "grey green",
+        "greyish green",
+        "matte",
+        "muted green",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-bedford-tester.jpg?v=1719278334",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Pebble",
+      "handle": "pebble",
+      "hex": "#c2c7ca",
+      "rgb": [
+        194,
+        199,
+        202
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "blue grey",
+        "gray",
+        "Grey",
+        "grey blue",
+        "matte",
+        "Penney & Co.",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-pebble-tester.jpg?v=1651353815",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Sterling",
+      "handle": "sterling",
+      "hex": "#c2c6c7",
+      "rgb": [
+        194,
+        198,
+        199
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "gray",
+        "Grey",
+        "matte",
+        "silver",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_sterling_1.jpg?v=1669018087",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Cobblestone",
+      "handle": "cobblestone",
+      "hex": "#e0dfdd",
+      "rgb": [
+        224,
+        223,
+        221
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "gray",
+        "Grey",
+        "matte",
+        "off white",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-cobblestone-tester.jpg?v=1651353158",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Little Lamb",
+      "handle": "little-lamb",
+      "hex": "#9aa3a2",
+      "rgb": [
+        154,
+        163,
+        162
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "gray",
+        "Grey",
+        "matte",
+        "Tones for Tots",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_littlelamb.jpg?v=1669017209",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Soap Stone",
+      "handle": "soap-stone",
+      "hex": "#6b7783",
+      "rgb": [
+        107,
+        119,
+        131
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "blue grey",
+        "gray",
+        "Grey",
+        "grey blue",
+        "matte",
+        "purple",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_soapstone.jpg?v=1669017993",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Chocolate",
+      "handle": "chocolate",
+      "hex": "#3a312c",
+      "rgb": [
+        58,
+        49,
+        44
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "brown",
+        "Chocolate",
+        "Classic",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-chocolate-pint.jpg?v=1669016506",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Hazelwood",
+      "handle": "hazelwood",
+      "hex": "#c2bdbb",
+      "rgb": [
+        194,
+        189,
+        187
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "dark neutral",
+        "Grey",
+        "matte",
+        "Neutral",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_hazelwood.jpg?v=1669018844",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Wood Wick",
+      "handle": "wood-wick",
+      "hex": "#68614e",
+      "rgb": [
+        104,
+        97,
+        78
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "beige",
+        "brown",
+        "cocoa",
+        "Fusion Mineral Paint",
+        "matte",
+        "taupe",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/WoodWick_5.png?v=1683983522",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Oakham",
+      "handle": "oakham",
+      "hex": "#776f6d",
+      "rgb": [
+        119,
+        111,
+        109
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "ash",
+        "brown",
+        "Classic",
+        "dark neutral",
+        "gray",
+        "Grey",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-oakham-tester.jpg?v=1669022246",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Ash",
+      "handle": "ash",
+      "hex": "#424443",
+      "rgb": [
+        66,
+        68,
+        67
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "dark grey",
+        "dark neutral",
+        "gray",
+        "Grey",
+        "matte",
+        "Neutral",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-ash-pint.jpg?v=1669015626",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Cast Iron",
+      "handle": "cast-iron",
+      "hex": "#1c191a",
+      "rgb": [
+        28,
+        25,
+        26
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "black",
+        "charcoal",
+        "Fusion Mineral Paint",
+        "gray",
+        "Grey",
+        "matte",
+        "off black",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Fusion2L_castiron.jpg?v=1715656276",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Coal Black",
+      "handle": "coal-black",
+      "hex": "#1d1d1d",
+      "rgb": [
+        29,
+        29,
+        29
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "black",
+        "Classic",
+        "dark neutral",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_coalblack.jpg?v=1669016674",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Little Whale",
+      "handle": "little-whale",
+      "hex": "#c3d4db",
+      "rgb": [
+        195,
+        212,
+        219
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "gray",
+        "Grey",
+        "matte",
+        "Tones for Tots",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-littlewhale-tester.jpg?v=1669017322",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Little Teapot",
+      "handle": "little-teapot",
+      "hex": "#b8e1db",
+      "rgb": [
+        184,
+        225,
+        219
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "matte",
+        "pastel",
+        "Tones for Tots",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-littleteapot-pint.jpg?v=1651353936",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Mist",
+      "handle": "mist",
+      "hex": "#d7e2e8",
+      "rgb": [
+        215,
+        226,
+        232
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "Classic",
+        "light blue",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-mist-tester.jpg?v=1651353139",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Champness",
+      "handle": "champness",
+      "hex": "#849fa8",
+      "rgb": [
+        132,
+        159,
+        168
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue grey",
+        "Classic",
+        "Grey",
+        "light blue",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-champness-tester.jpg?v=1669016380",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Heirloom",
+      "handle": "heirloom",
+      "hex": "#9dc4c9",
+      "rgb": [
+        157,
+        196,
+        201
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue grey",
+        "grey blue",
+        "light blue",
+        "matte",
+        "pastel",
+        "Penney & Co.",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-heirloom-pint.jpg?v=1651353855",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Azure",
+      "handle": "azure",
+      "hex": "#31c7d6",
+      "rgb": [
+        49,
+        199,
+        214
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "matte",
+        "Penney & Co.",
+        "turquoise",
+        "vibrant",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-azure-tester.jpg?v=1651353862",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Paisley",
+      "handle": "paisley",
+      "hex": "#abb6ba",
+      "rgb": [
+        171,
+        182,
+        186
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "Classic",
+        "light blue",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-paisley-tester.jpg?v=1651353196",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Blue Pine",
+      "handle": "blue-pine",
+      "hex": "#7a9292",
+      "rgb": [
+        122,
+        146,
+        146
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Classic",
+        "Green",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-bluepine-tester.jpg?v=1651353186",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Homestead Blue",
+      "handle": "homestead-blue",
+      "hex": "#42535a",
+      "rgb": [
+        66,
+        83,
+        90
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue grey",
+        "Classic",
+        "Grey",
+        "grey blue",
+        "Homestead Blue",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-homesteadblue-tester.jpg?v=1651353660",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Seaside",
+      "handle": "seaside",
+      "hex": "#57787f",
+      "rgb": [
+        87,
+        120,
+        127
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-seaside-pint.jpg?v=1669017910",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Renfrew Blue",
+      "handle": "renfrew-blue",
+      "hex": "#00656a",
+      "rgb": [
+        0,
+        101,
+        106
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Classic",
+        "Green",
+        "matte",
+        "vibrant green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-renfrewblue-tester.jpg?v=1651353693",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Liberty Blue",
+      "handle": "liberty-blue",
+      "hex": "#1b3d6d",
+      "rgb": [
+        27,
+        61,
+        109
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "Classic",
+        "matte",
+        "purple",
+        "violet",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-libertyblue-tester.jpg?v=1651353666",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Midnight Blue",
+      "handle": "midnight-blue",
+      "hex": "#1b2a41",
+      "rgb": [
+        27,
+        42,
+        65
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "Classic",
+        "matte",
+        "navy",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Fusion2L_midnightblue.jpg?v=1669017421",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Willowbank",
+      "handle": "willowbank",
+      "hex": "#004c6e",
+      "rgb": [
+        0,
+        76,
+        110
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "blue",
+        "blue green",
+        "Classic",
+        "Green",
+        "teal",
+        "vibrant",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-willowbank-tester.jpg?v=1669022336",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Chestler",
+      "handle": "chestler-1",
+      "hex": "#50606e",
+      "rgb": [
+        80,
+        96,
+        110
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Classic",
+        "Green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-chestler-tester.jpg?v=1658205427",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Inglenook",
+      "handle": "inglenook",
+      "hex": "#c2d9d3",
+      "rgb": [
+        194,
+        217,
+        211
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "blue grey",
+        "Classic",
+        "green-grey",
+        "grey blue",
+        "grey green",
+        "light blue",
+        "matte",
+        "soft green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-inglenook-pint.jpg?v=1651353700",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Laurentien",
+      "handle": "laurentien",
+      "hex": "#b9e0db",
+      "rgb": [
+        185,
+        224,
+        219
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Classic",
+        "light blue",
+        "matte",
+        "pastel",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-laurentien-pint.jpg?v=1651353686",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Brook",
+      "handle": "brook",
+      "hex": "#a8c1bb",
+      "rgb": [
+        168,
+        193,
+        187
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Green",
+        "light blue",
+        "matte",
+        "Penney & Co.",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-brook-pint.jpg?v=1669019106",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Eucalyptus",
+      "handle": "eucalyptus",
+      "hex": "#b7c7ba",
+      "rgb": [
+        183,
+        199,
+        186
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "gray",
+        "Green",
+        "green-grey",
+        "Grey",
+        "matte",
+        "muted green",
+        "sacred sage",
+        "soft green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-eucalyptus-tester.jpg?v=1651353148",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Upper Canada Green",
+      "handle": "upper-canada-green",
+      "hex": "#bbd79d",
+      "rgb": [
+        187,
+        215,
+        157
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "Green",
+        "matte",
+        "vibrant green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-uppercanada-pint.jpg?v=1651353271",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Park Bench",
+      "handle": "park-bench",
+      "hex": "#406f4d",
+      "rgb": [
+        64,
+        111,
+        77
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Green",
+        "matte",
+        "Penney & Co.",
+        "vibrant green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-parkbench-pint.jpg?v=1651353902",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "French Eggshell",
+      "handle": "french-eggshell",
+      "hex": "#91a8a0",
+      "rgb": [
+        145,
+        168,
+        160
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "gray",
+        "Green",
+        "green grey",
+        "Grey",
+        "grey green",
+        "greyish green",
+        "matte",
+        "muted green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-frencheggshell-tester.jpg?v=1651353166",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Bellwood",
+      "handle": "bellwood",
+      "hex": "#96a797",
+      "rgb": [
+        150,
+        167,
+        151
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "Green",
+        "green-grey",
+        "matte",
+        "muted green",
+        "sacred sage",
+        "sage",
+        "soft green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/006-Fusion_Mineral_Paint_Bellwood_500mlJar_WR_210528_1226_1.jpg?v=1669018363",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Conservatory",
+      "handle": "conservatory",
+      "hex": "#c0c8b2",
+      "rgb": [
+        192,
+        200,
+        178
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "chartreuse",
+        "Classic",
+        "green",
+        "vibrant green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-conservatory-tester.jpg?v=1669022008",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Bayberry",
+      "handle": "bayberry",
+      "hex": "#616b53",
+      "rgb": [
+        97,
+        107,
+        83
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "deep green",
+        "Green",
+        "matte",
+        "olive",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Fusion2L_bayberry.jpg?v=1715656236",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Carriage House",
+      "handle": "carriage-house",
+      "hex": "#577567",
+      "rgb": [
+        87,
+        117,
+        103
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "gray",
+        "Green",
+        "Grey",
+        "matte",
+        "soft green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/CarriageHouse_4.png?v=1683982845",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Newell",
+      "handle": "newell",
+      "hex": "#4f99e0",
+      "rgb": [
+        79,
+        153,
+        224
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "gray",
+        "Green",
+        "Grey",
+        "matte",
+        "soft green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Newell_7.png?v=1683983974",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Manor Green",
+      "handle": "manor-green",
+      "hex": "#2f472e",
+      "rgb": [
+        47,
+        71,
+        46
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Classic",
+        "deep green",
+        "green",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-manorgreen-tester.jpg?v=1658205299",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Everett",
+      "handle": "everett",
+      "hex": "#dcdcd9",
+      "rgb": [
+        220,
+        220,
+        217
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "Green",
+        "muted green",
+        "olive",
+        "sage",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-everett-tester.jpg?v=1658205356",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Wellington",
+      "handle": "wellington",
+      "hex": "#284035",
+      "rgb": [
+        40,
+        64,
+        53
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Fusion Mineral Paint",
+        "Green",
+        "matte",
+        "moody",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Wellington_5.png?v=1746112852",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Pressed Fern",
+      "handle": "pressed-fern",
+      "hex": "#1e463e",
+      "rgb": [
+        30,
+        70,
+        62
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "blue green",
+        "deep green",
+        "Green",
+        "matte",
+        "Penney & Co.",
+        "vibrant green",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-pressedfern-pint.jpg?v=1651353279",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Cambridge",
+      "handle": "cambridge",
+      "hex": "#082b38",
+      "rgb": [
+        8,
+        43,
+        56
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Blue",
+        "blue green",
+        "Fusion Mineral Paint",
+        "Green",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Cambridge_6.png?v=1683984821",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Peony",
+      "handle": "peony",
+      "hex": "#ffeff0",
+      "rgb": [
+        255,
+        239,
+        240
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "blush",
+        "Classic",
+        "matte",
+        "Pink",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-peony-pint.jpg?v=1669017545",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Rose Water",
+      "handle": "rose-water",
+      "hex": "#ebd7d6",
+      "rgb": [
+        235,
+        215,
+        214
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "matte",
+        "pastel",
+        "Pink",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-rosewater-tester.jpg?v=1651353207",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Damask",
+      "handle": "damask",
+      "hex": "#d9b1b1",
+      "rgb": [
+        217,
+        177,
+        177
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "blush",
+        "Classic",
+        "matte",
+        "mauve",
+        "Pink",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-damask-pint.jpg?v=1651353255",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Coral",
+      "handle": "coral",
+      "hex": "#fe8f73",
+      "rgb": [
+        254,
+        143,
+        115
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "coral",
+        "matte",
+        "Orange",
+        "Penney & Co.",
+        "Pink",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-coral-tester.jpg?v=1663549826",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Tuscan Orange",
+      "handle": "tuscan-orange",
+      "hex": "#fd7448",
+      "rgb": [
+        253,
+        116,
+        72
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "matte",
+        "Orange",
+        "orange red",
+        "red",
+        "red orange",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-tuscanorange-tester.jpg?v=1651353613",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Fort York Red",
+      "handle": "fort-york-red",
+      "hex": "#f23b40",
+      "rgb": [
+        242,
+        59,
+        64
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Classic",
+        "matte",
+        "red",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-fortyorkred-pint.jpg?v=1651353633",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Highlander",
+      "handle": "highlander",
+      "hex": "#9d4738",
+      "rgb": [
+        157,
+        71,
+        56
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Barn Red",
+        "burgundy",
+        "Classic",
+        "matte",
+        "red",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-highlander-tester.jpg?v=1658205330",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Cranberry",
+      "handle": "cranberry",
+      "hex": "#b33e4e",
+      "rgb": [
+        179,
+        62,
+        78
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "burgundy",
+        "Classic",
+        "matte",
+        "Red",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-cranberry-tester.jpg?v=1669016785",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Winchester",
+      "handle": "winchester",
+      "hex": "#73212d",
+      "rgb": [
+        115,
+        33,
+        45
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "burgundy",
+        "Classic",
+        "matte",
+        "purple",
+        "red",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-winchester-tester.jpg?v=1658205225",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Elderberry",
+      "handle": "elderberry",
+      "hex": "#704e58",
+      "rgb": [
+        112,
+        78,
+        88
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "burgundy",
+        "Classic",
+        "matte",
+        "purple",
+        "red",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-elderberry-tester.jpg?v=1669022103",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Pearl Metallic Paint",
+      "handle": "pearl",
+      "hex": "#ebeae9",
+      "rgb": [
+        235,
+        234,
+        233
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "metallics",
+        "pearl",
+        "pearl metallic"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-pearl-tester.jpg?v=1669019797",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Champagne Metallic Paint",
+      "handle": "champagne",
+      "hex": "#dddad7",
+      "rgb": [
+        221,
+        218,
+        215
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "design",
+        "Metal",
+        "metallics",
+        "Mettalic",
+        "Mica"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-champagne-250.jpg?v=1669019596",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Champagne Gold Metallic Paint",
+      "handle": "champagne-gold-metallic-paint",
+      "hex": "#eae6e3",
+      "rgb": [
+        234,
+        230,
+        227
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "champagne gold",
+        "Metallic Paint",
+        "metallics",
+        "Mettalic",
+        "Mica"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-champagnegold-tester.jpg?v=1669019651",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Vintage Gold Metallic",
+      "handle": "vintage-gold-metallic-paint",
+      "hex": "#e4e1dc",
+      "rgb": [
+        228,
+        225,
+        220
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "Metal",
+        "Metallic Paint",
+        "metallics",
+        "Mettalic",
+        "Mica",
+        "vintage gold"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-vintagegold-tester.jpg?v=1669020040",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Gold Metallic Paint",
+      "handle": "pale-gold",
+      "hex": "#e9e1d6",
+      "rgb": [
+        233,
+        225,
+        214
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "Fusion",
+        "Fusion Mineral Paint",
+        "gold",
+        "metallics",
+        "Mettalic",
+        "Mica"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-gold-tester.jpg?v=1669019892",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Rose Gold Metallic Paint",
+      "handle": "rose-gold-metallic-paint",
+      "hex": "#d9cdc8",
+      "rgb": [
+        217,
+        205,
+        200
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "Metallic Paint",
+        "metallics",
+        "Mettalic",
+        "rose gold"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-rosegold-250.jpg?v=1669019970",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Copper Metallic Paint",
+      "handle": "copper",
+      "hex": "#d7c7bb",
+      "rgb": [
+        215,
+        199,
+        187
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "business painting furniture",
+        "Copper",
+        "design",
+        "durable top coat",
+        "earn from painting",
+        "Euro Style",
+        "Faux Finish",
+        "flawless finsih",
+        "flip furniture",
+        "flip furniture for profit",
+        "Flippin Funriture",
+        "Furniture Flippin",
+        "FURNITURE FLIPPING",
+        "furniture flipping for profit",
+        "furniture refinishing",
+        "Fusion",
+        "Fusion Mineral Paint",
+        "High Quality",
+        "learn to paint",
+        "matte",
+        "Metal",
+        "metallics",
+        "Mettalic",
+        "Mica",
+        "Paint for profit",
+        "paint furniture",
+        "paint glass",
+        "paint in tight spaces",
+        "paint it beautiful",
+        "paint layering",
+        "paint perfection",
+        "painting professionals",
+        "patina",
+        "pigment",
+        "Pretty",
+        "smooth finish",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-copper-250.jpg?v=1669019721",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Bronze Metallic Paint",
+      "handle": "bronze",
+      "hex": "#b9b4ad",
+      "rgb": [
+        185,
+        180,
+        173
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "Metal",
+        "Metallic Bronze",
+        "Metallic Paint",
+        "metallics",
+        "Mettalic",
+        "Mica"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-bronze-250.jpg?v=1669019449",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Silver Metallic Paint",
+      "handle": "silver-metallic-paint",
+      "hex": "#b1b3b5",
+      "rgb": [
+        177,
+        179,
+        181
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "brushed steel",
+        "Fusion",
+        "Metal",
+        "metallics",
+        "Mettalic",
+        "Mica"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/Untitleddesign-2022-04-08T111700.723.png?v=1651352040",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Brushed Steel Metallic Paint",
+      "handle": "brushed-steel",
+      "hex": "#dddcda",
+      "rgb": [
+        221,
+        220,
+        218
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "brushed steel",
+        "Fusion",
+        "Metal",
+        "metallics",
+        "Mettalic",
+        "Mica"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/products/fusion_mineral_paint-brushedsteel-tester.jpg?v=1669019518",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Buy a Champagne Gold Metallic 250ml Get a Free Metallic Champagne Tester",
+      "handle": "buy-a-champagne-gold-metallic-get-a-free-metallic-champagne-tester",
+      "hex": "#aca79e",
+      "rgb": [
+        172,
+        167,
+        158
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "champagne",
+        "champagne gold",
+        "gift",
+        "Metallic Paint",
+        "metallics"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/ChampagneGoldandChampagne.jpg?v=1701867463",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Buy a Pale Gold Metallic 250ml  Get a Free Metallic Pearl Tester",
+      "handle": "buy-a-pale-gold-metallic-get-a-free-metallic-pearl-tester",
+      "hex": "#b2aa9a",
+      "rgb": [
+        178,
+        170,
+        154
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "Metallic Paint",
+        "metallics",
+        "pale gold etallic",
+        "pearl metallic"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/PaleGoldandPearl.jpg?v=1701867595",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "CUREiously Pink",
+      "handle": "cureiously-pink",
+      "hex": "#fe3fcb",
+      "rgb": [
+        254,
+        63,
+        203
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "Fusion Mineral Paint",
+        "matte",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/fusion_mineral_paint-cureiouslypink-tester.jpg?v=1731941872",
+      "source": "fusion_barcodes_workbook_2026_05_07"
+    },
+    {
+      "name": "Kitchen Cabinet Refinishing Kit for Light Colours",
+      "handle": "kitchen-cabinet-refinishing-kit-for-light-colours",
+      "hex": "#898989",
+      "rgb": [
+        137,
+        137,
+        137
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "bundle"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Screenshot2022-11-09at15.05.35_decbc14f-64b0-4d40-8cbb-1fa961032bc2.png?v=1738947046",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Metallic Tester Gift Set - Bundle",
+      "handle": "metallic-tester-gift-set-bundle-1",
+      "hex": "#959994",
+      "rgb": [
+        149,
+        153,
+        148
+      ],
+      "type": "Fusion Mineral Paint Metallics",
+      "tags": [
+        "bundle",
+        "business painting furniture",
+        "Copper",
+        "design",
+        "durable top coat",
+        "earn from painting",
+        "Euro Style",
+        "Faux Finish",
+        "flawless finsih",
+        "flip furniture",
+        "flip furniture for profit",
+        "Flippin Funriture",
+        "Furniture Flippin",
+        "FURNITURE FLIPPING",
+        "furniture flipping for profit",
+        "furniture refinishing",
+        "Fusion",
+        "Fusion Mineral Paint",
+        "High Quality",
+        "learn to paint",
+        "matte",
+        "Metal",
+        "Metallic Paint",
+        "metallics",
+        "Mettalic",
+        "Mica",
+        "Paint for profit",
+        "paint furniture",
+        "paint glass",
+        "paint in tight spaces",
+        "paint it beautiful",
+        "paint layering",
+        "paint perfection",
+        "painting professionals",
+        "patina",
+        "pearl",
+        "pearl metallic",
+        "pigment",
+        "Pretty",
+        "rose gold",
+        "smooth finish",
+        "waterbased"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/temp_5AEvd6b.webp?v=1746197776",
+      "source": "sampled_from_shopify_swatch_image"
+    },
+    {
+      "name": "Holiday Tester Four Pack",
+      "handle": "holiday-tester-four-pack",
+      "hex": "#a2868b",
+      "rgb": [
+        162,
+        134,
+        139
+      ],
+      "type": "Fusion Mineral Paint",
+      "tags": [
+        "bundle",
+        "burgundy",
+        "Classic",
+        "cream",
+        "design",
+        "matte",
+        "Metal",
+        "metallics",
+        "Mettalic",
+        "Mica",
+        "off white",
+        "pearl",
+        "pearl metallic",
+        "purple",
+        "red",
+        "waterbased",
+        "White"
+      ],
+      "swatchUrl": "https://cdn.shopify.com/s/files/1/0613/4608/7086/files/Type1web-Winchester.jpg?v=1762366749",
+      "source": "sampled_from_shopify_swatch_image"
+    }
+  ],
+  "count": 98,
+  "errors": [],
+  "disclaimer": "Hex values for existing Fusion Mineral Paint colors were updated from the Fusion_barcodes_2026-05-07 workbook when available; remaining values still use sampled Shopify imagery."
+}

@@ -17,24 +17,29 @@ export default function AboutPage() {
 
       <div className="mt-10 space-y-6 leading-relaxed text-brown/80">
         <p>
-          <span className="font-medium text-brown">{site.name}</span> is an antique
-          booth run by {site.owner.name}, offering carefully curated and
-          hand-refinished furniture alongside vintage finds. Leigh is a mother who
-          has lived in Northwest Arkansas for virtually her entire life.
+          <span className="font-medium text-brown">{site.name}</span> is a curated
+          marketplace offering various home goods where you will find refinished
+          furniture alongside vintage treasures. Owner {site.owner.name} is thankful
+          to have {site.name} as her creative outlet and to have met so many
+          wonderful customers and fellow vendors through the years. Leigh has lived
+          in Northwest Arkansas for much of her life and raised her two children
+          Riley and Addison alongside her husband David here.
         </p>
 
         <p>
-          Since {site.established}, the booth has called a few different shops home
-          around the region — but the heart of it has always been the same:
-          giving old pieces new life and sharing them with the community.
+          Since {site.established}, {site.name} has called a few different shops home
+          around the region — but the heart of it has always been the same: giving
+          old pieces new life and sharing them with the community.
         </p>
 
         <p>
           Today you&apos;ll find {site.name} inside{" "}
           <span className="font-medium text-brown">{site.hostStore.name}</span>, a
-          shop for antique furniture and home décor in Springdale. Recent favorites
-          include Victorian horse brass — decorative brass medallions once worn on
-          horse harnesses, now collected for their history and craftsmanship.
+          shop for vintage furniture and home décor in Springdale. Recent favorites
+          in the booth include Victorian horse brass — decorative brass medallions
+          once worn on horse harnesses, now collected for their history and
+          craftsmanship. You will often find furniture pieces given new life with
+          Fusion Mineral Paint or other finishes.
         </p>
 
         <p>
@@ -64,7 +69,45 @@ export default function AboutPage() {
           >
             {formatAddress()}
           </a>
+          <p className="mt-2 text-sm text-brown/70">{site.hostStore.hours}</p>
         </address>
+
+        <div className="mt-8 border-t border-brown/10 pt-6">
+          <h3 className="font-serif text-lg text-brown">Get in touch</h3>
+          <ul className="mt-4 space-y-2 text-sm text-brown/80">
+            <li>
+              Email:{" "}
+              <a
+                href={`mailto:${site.contact.email}`}
+                className="text-brown underline underline-offset-2"
+              >
+                {site.contact.email}
+              </a>
+            </li>
+            <li>
+              Instagram:{" "}
+              <a
+                href={site.contact.instagram}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-brown underline underline-offset-2"
+              >
+                @suburbanmarketnwa
+              </a>
+            </li>
+            <li>
+              Facebook:{" "}
+              <a
+                href={site.contact.facebook}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-brown underline underline-offset-2"
+              >
+                Suburban Market
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   );

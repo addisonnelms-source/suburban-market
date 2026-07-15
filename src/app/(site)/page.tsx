@@ -114,6 +114,7 @@ export default async function HomePage() {
           >
             {formatAddress()}
           </a>
+          <p className="mt-2 text-sm text-brown/60">{site.hostStore.hours}</p>
         </div>
       </section>
     </>

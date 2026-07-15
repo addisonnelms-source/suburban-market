@@ -1,0 +1,142 @@
+{
+  "disclaimer": "Approximate hex values sampled from Shopify product images. Not official Fusion color specifications.",
+  "greyBases": [
+    "Sterling",
+    "Casement",
+    "Putty",
+    "Plaster",
+    "Limestone",
+    "Cobblestone",
+    "Pebble",
+    "Mist",
+    "Champlain",
+    "Algonquin",
+    "Lichen",
+    "Little Lamb",
+    "Oakham",
+    "Ash",
+    "Soap Stone",
+    "Parchment",
+    "Hazelwood",
+    "Elmwood",
+    "Wood Wick",
+    "Raw Silk",
+    "Cashmere",
+    "Cathedral Taupe",
+    "Chateau",
+    "Coal Black",
+    "Cast Iron",
+    "Cambridge",
+    "Wellington",
+    "Newell",
+    "Carriage House",
+    "Picket Fence",
+    "Lamp White",
+    "Victorian Lace",
+    "Bedford"
+  ],
+  "accents": [
+    "Upper Canada Green",
+    "Park Bench",
+    "Pressed Fern",
+    "Acadia Pear",
+    "Bellwood",
+    "Homestead Blue",
+    "Renfrew Blue",
+    "Seaside",
+    "Willowbank",
+    "Velvet Plum",
+    "Elderberry",
+    "Lavender Haze",
+    "Damask",
+    "Mustard",
+    "Tuscan Orange",
+    "Coral",
+    "Fort York Red",
+    "Cranberry",
+    "Chestnut Mare",
+    "Iron Clay"
+  ],
+  "presetRecipes": [
+    {
+      "name": "Coastal Sterling",
+      "tagline": "Sophisticated blue-grey",
+      "colors": [
+        { "name": "Sterling", "ratio": 75 },
+        { "name": "Homestead Blue", "ratio": 25 }
+      ]
+    },
+    {
+      "name": "Sage Casement",
+      "tagline": "Trendy greige with a green soul",
+      "colors": [
+        { "name": "Casement", "ratio": 80 },
+        { "name": "Upper Canada Green", "ratio": 20 }
+      ]
+    },
+    {
+      "name": "Mauve Mist",
+      "tagline": "Soft modern neutral",
+      "colors": [
+        { "name": "Mist", "ratio": 85 },
+        { "name": "Velvet Plum", "ratio": 15 }
+      ]
+    },
+    {
+      "name": "Warm Putty",
+      "tagline": "Cozy, not flat",
+      "colors": [
+        { "name": "Putty", "ratio": 90 },
+        { "name": "Mustard", "ratio": 10 }
+      ]
+    },
+    {
+      "name": "Blush Pebble",
+      "tagline": "Warm light neutral",
+      "colors": [
+        { "name": "Pebble", "ratio": 88 },
+        { "name": "Coral", "ratio": 12 }
+      ]
+    },
+    {
+      "name": "Forest Ash",
+      "tagline": "Deep sage grey",
+      "colors": [
+        { "name": "Ash", "ratio": 70 },
+        { "name": "Park Bench", "ratio": 30 }
+      ]
+    },
+    {
+      "name": "Plum Sterling",
+      "tagline": "Rich mauve-grey",
+      "colors": [
+        { "name": "Sterling", "ratio": 75 },
+        { "name": "Elderberry", "ratio": 25 }
+      ]
+    },
+    {
+      "name": "Sunlit Champlain",
+      "tagline": "Warm greige",
+      "colors": [
+        { "name": "Champlain", "ratio": 85 },
+        { "name": "Tuscan Orange", "ratio": 15 }
+      ]
+    },
+    {
+      "name": "Denim Raw Silk",
+      "tagline": "Soft denim neutral",
+      "colors": [
+        { "name": "Raw Silk", "ratio": 80 },
+        { "name": "Renfrew Blue", "ratio": 20 }
+      ]
+    },
+    {
+      "name": "Earthy Elmwood",
+      "tagline": "Grounded brown-grey",
+      "colors": [
+        { "name": "Elmwood", "ratio": 60 },
+        { "name": "Chestnut Mare", "ratio": 40 }
+      ]
+    }
+  ]
+}

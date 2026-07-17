@@ -2,7 +2,7 @@
 
 A custom website and interactive paint color-mixing tool for Suburban Market, a family-owned antique store and authorized Fusion Mineral Paint vendor in Springdale, Arkansas.
 
-I built this with no prior formal coding background, teaching myself to design, build, and ship it using Claude Code. It's a real, working product the business uses.
+I built this with no prior formal coding background, teaching myself to design, build, and ship it using Claude Code. 
 
 ## What it does
 

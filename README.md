@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Suburban Market
 
-## Getting Started
+A custom website and interactive paint color-mixing tool for Suburban Market, a family-owned antique store and authorized Fusion Mineral Paint vendor in Springdale, Arkansas.
 
-First, run the development server:
+I built this with no prior formal coding background, teaching myself to design, build, and ship it using Claude Code. It's a real, working product the business uses.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What it does
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Paint Color Mixer** — lets customers explore and preview custom blends of Fusion Mineral Paint colors before buying, and gives staff a faster way to visualize mixing combinations. Includes a recipe gallery of preset blends and a "closest Fusion match" for each mix.
+- **Shop** — a browsable catalog of antiques and refinished furniture available at the booth.
+- **Self-serve content** — the store owner can add and update listings independently through a CMS, with no developer needed.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How the mixer works
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Each Fusion color is stored with a hex value — 81 of 82 sourced and cleaned from Fusion's official barcode workbook. Blends are computed by mixing those color values by percentage, then compared against the full catalog to surface the closest real Fusion color to any custom mix.
 
-## Learn More
+## Built with
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js** (React framework)
+- **Sanity** (headless CMS for listings)
+- **Vercel** (hosting and deployment)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Live site
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Paint mixer: https://suburban-market.vercel.app/fusion-paint/mixer
+- Home: https://suburban-market.vercel.app
